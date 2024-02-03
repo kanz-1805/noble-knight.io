@@ -1,4 +1,5 @@
-Checking the new markdown language
+# Checking the new markdown language
+
 * Easy
 * Use StackEdit.io
 * Easily parsable
